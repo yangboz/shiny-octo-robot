@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+/LibGODPaper/LibGODPaper/Debug/*
+/LibGODPaper/LibGODPaper/*.suo
