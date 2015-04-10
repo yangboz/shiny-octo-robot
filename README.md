@@ -1,6 +1,10 @@
 # shiny-octo-robot
 GODPAPER with C++ and Cocos2d-X
 
+# Mindmap
+
+https://atlas.mindmup.com/2015/02/457e2930963c0132459d669cf3e1d936/mustached_octo_computing_machine/index.html
+
 # References
 
 https://github.com/yangboz/godpaper
