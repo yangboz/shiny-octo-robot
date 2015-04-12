@@ -7,7 +7,15 @@ https://atlas.mindmup.com/2015/02/457e2930963c0132459d669cf3e1d936/mustached_oct
 
 # References
 
+Game loop:
+
+http://code.tutsplus.com/tutorials/understanding-the-game-loop-basix--active-8510
+
+Flash version: 
+
 https://github.com/yangboz/godpaper
+
+Tutorials:
 
 http://www.raywenderlich.com/62990/introduction-c-ios-developers-part-2
 
