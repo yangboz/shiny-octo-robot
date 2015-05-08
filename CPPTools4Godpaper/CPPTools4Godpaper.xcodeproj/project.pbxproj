@@ -25,6 +25,39 @@
 /* Begin PBXFileReference section */
 		65672D601ADDFF6600D228AE /* CPPTools4Godpaper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPPTools4Godpaper; sourceTree = BUILT_PRODUCTS_DIR; };
 		65672D631ADDFF6600D228AE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		6587E5281AFD6A7A0051F5BA /* Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Iterator.h; sourceTree = "<group>"; };
+		6587E5291AFD6B280051F5BA /* Interface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Interface.h; sourceTree = "<group>"; };
+		6587E52A1AFD6DE10051F5BA /* Collection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Collection.h; sourceTree = "<group>"; };
+		6587E52B1AFD6E500051F5BA /* Array2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Array2.h; sourceTree = "<group>"; };
+		6587E52C1AFD6E980051F5BA /* Array3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Array3.h; sourceTree = "<group>"; };
+		6587E52D1AFD6EB40051F5BA /* ArrayedQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayedQueue.h; sourceTree = "<group>"; };
+		6587E52E1AFD6ED00051F5BA /* ArrayedStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayedStack.h; sourceTree = "<group>"; };
+		6587E52F1AFD6EFE0051F5BA /* BinarySearchTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinarySearchTree.h; sourceTree = "<group>"; };
+		6587E5301AFD6F1A0051F5BA /* BinaryTreeNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinaryTreeNode.h; sourceTree = "<group>"; };
+		6587E5311AFD6F330051F5BA /* BitVector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BitVector.h; sourceTree = "<group>"; };
+		6587E5321AFD6F5D0051F5BA /* DLinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DLinkedList.h; sourceTree = "<group>"; };
+		6587E5331AFD6F7A0051F5BA /* DListIterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DListIterator.h; sourceTree = "<group>"; };
+		6587E5341AFD6F920051F5BA /* DListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DListNode.h; sourceTree = "<group>"; };
+		6587E5351AFD6FA70051F5BA /* Graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Graph.h; sourceTree = "<group>"; };
+		6587E5361AFD6FBE0051F5BA /* GraphArc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphArc.h; sourceTree = "<group>"; };
+		6587E5371AFD6FD00051F5BA /* GraphNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GraphNode.h; sourceTree = "<group>"; };
+		6587E5381AFD6FF30051F5BA /* HashMap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HashMap.h; sourceTree = "<group>"; };
+		6587E5391AFD700A0051F5BA /* HashTable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HashTable.h; sourceTree = "<group>"; };
+		6587E53A1AFD70290051F5BA /* Heap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Heap.h; sourceTree = "<group>"; };
+		6587E53B1AFD70420051F5BA /* LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
+		6587E53C1AFD70D30051F5BA /* LinkedListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedListNode.h; sourceTree = "<group>"; };
+		6587E53D1AFD70F40051F5BA /* LinkedQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedQueue.h; sourceTree = "<group>"; };
+		6587E53E1AFD710E0051F5BA /* LinkedStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedStack.h; sourceTree = "<group>"; };
+		6587E53F1AFD71260051F5BA /* NullIterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NullIterator.h; sourceTree = "<group>"; };
+		6587E5401AFD71520051F5BA /* Prioritizable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prioritizable.h; sourceTree = "<group>"; };
+		6587E5411AFD71770051F5BA /* PriorityQueue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PriorityQueue.h; sourceTree = "<group>"; };
+		6587E5421AFD71980051F5BA /* SLinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SLinkedList.h; sourceTree = "<group>"; };
+		6587E5431AFD71B40051F5BA /* SListIterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SListIterator.h; sourceTree = "<group>"; };
+		6587E5441AFD71D30051F5BA /* SListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SListNode.h; sourceTree = "<group>"; };
+		6587E5451AFD71E80051F5BA /* Set.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Set.h; sourceTree = "<group>"; };
+		6587E5461AFD71FC0051F5BA /* TreeIterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TreeIterator.h; sourceTree = "<group>"; };
+		6587E5471AFD72150051F5BA /* TreeNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TreeNode.h; sourceTree = "<group>"; };
+		6587E5481AFD722B0051F5BA /* VectorUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VectorUtils.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +90,82 @@
 		65672D621ADDFF6600D228AE /* CPPTools4Godpaper */ = {
 			isa = PBXGroup;
 			children = (
+				6587E5251AFD6A430051F5BA /* de */,
 				65672D631ADDFF6600D228AE /* main.cpp */,
 			);
 			path = CPPTools4Godpaper;
+			sourceTree = "<group>";
+		};
+		6587E5251AFD6A430051F5BA /* de */ = {
+			isa = PBXGroup;
+			children = (
+				6587E5261AFD6A430051F5BA /* polygonal */,
+			);
+			path = de;
+			sourceTree = "<group>";
+		};
+		6587E5261AFD6A430051F5BA /* polygonal */ = {
+			isa = PBXGroup;
+			children = (
+				6587E5271AFD6A430051F5BA /* ds */,
+			);
+			path = polygonal;
+			sourceTree = "<group>";
+		};
+		6587E5271AFD6A430051F5BA /* ds */ = {
+			isa = PBXGroup;
+			children = (
+				6587E5491AFD72540051F5BA /* sort */,
+				6587E5281AFD6A7A0051F5BA /* Iterator.h */,
+				6587E5291AFD6B280051F5BA /* Interface.h */,
+				6587E52A1AFD6DE10051F5BA /* Collection.h */,
+				6587E52B1AFD6E500051F5BA /* Array2.h */,
+				6587E52C1AFD6E980051F5BA /* Array3.h */,
+				6587E52D1AFD6EB40051F5BA /* ArrayedQueue.h */,
+				6587E52E1AFD6ED00051F5BA /* ArrayedStack.h */,
+				6587E52F1AFD6EFE0051F5BA /* BinarySearchTree.h */,
+				6587E5301AFD6F1A0051F5BA /* BinaryTreeNode.h */,
+				6587E5311AFD6F330051F5BA /* BitVector.h */,
+				6587E5321AFD6F5D0051F5BA /* DLinkedList.h */,
+				6587E5331AFD6F7A0051F5BA /* DListIterator.h */,
+				6587E5341AFD6F920051F5BA /* DListNode.h */,
+				6587E5351AFD6FA70051F5BA /* Graph.h */,
+				6587E5361AFD6FBE0051F5BA /* GraphArc.h */,
+				6587E5371AFD6FD00051F5BA /* GraphNode.h */,
+				6587E5381AFD6FF30051F5BA /* HashMap.h */,
+				6587E5391AFD700A0051F5BA /* HashTable.h */,
+				6587E53A1AFD70290051F5BA /* Heap.h */,
+				6587E53B1AFD70420051F5BA /* LinkedList.h */,
+				6587E53C1AFD70D30051F5BA /* LinkedListNode.h */,
+				6587E53D1AFD70F40051F5BA /* LinkedQueue.h */,
+				6587E53E1AFD710E0051F5BA /* LinkedStack.h */,
+				6587E53F1AFD71260051F5BA /* NullIterator.h */,
+				6587E5401AFD71520051F5BA /* Prioritizable.h */,
+				6587E5411AFD71770051F5BA /* PriorityQueue.h */,
+				6587E5421AFD71980051F5BA /* SLinkedList.h */,
+				6587E5431AFD71B40051F5BA /* SListIterator.h */,
+				6587E5441AFD71D30051F5BA /* SListNode.h */,
+				6587E5451AFD71E80051F5BA /* Set.h */,
+				6587E5461AFD71FC0051F5BA /* TreeIterator.h */,
+				6587E5471AFD72150051F5BA /* TreeNode.h */,
+				6587E5481AFD722B0051F5BA /* VectorUtils.h */,
+			);
+			path = ds;
+			sourceTree = "<group>";
+		};
+		6587E5491AFD72540051F5BA /* sort */ = {
+			isa = PBXGroup;
+			children = (
+				6587E54A1AFD73040051F5BA /* compare */,
+			);
+			path = sort;
+			sourceTree = "<group>";
+		};
+		6587E54A1AFD73040051F5BA /* compare */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = compare;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +338,7 @@
 				65672D691ADDFF6600D228AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
