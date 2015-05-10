@@ -23,6 +23,21 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6538466C1AFEE2E900273501 /* SortOptions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SortOptions.h; sourceTree = "<group>"; };
+		6538466D1AFEE31200273501 /* arrayedInsertionSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = arrayedInsertionSort.h; sourceTree = "<group>"; };
+		6538466F1AFEE33500273501 /* arrayedShellSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = arrayedShellSort.h; sourceTree = "<group>"; };
+		653846701AFEE35900273501 /* dLinkedInsertionSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dLinkedInsertionSort.h; sourceTree = "<group>"; };
+		653846711AFEE37400273501 /* dLinkedInsertionSortCmp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dLinkedInsertionSortCmp.h; sourceTree = "<group>"; };
+		653846721AFEE38800273501 /* dLinkedMergeSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dLinkedMergeSort.h; sourceTree = "<group>"; };
+		653846731AFEE39D00273501 /* dLinkedMergeSortCmp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dLinkedMergeSortCmp.h; sourceTree = "<group>"; };
+		653846741AFEE3F200273501 /* sLinkedInsertionSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sLinkedInsertionSort.h; sourceTree = "<group>"; };
+		653846751AFEE40900273501 /* sLinkedInsertionSortCmp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sLinkedInsertionSortCmp.h; sourceTree = "<group>"; };
+		653846761AFEE41E00273501 /* sLinkedMergeSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sLinkedMergeSort.h; sourceTree = "<group>"; };
+		653846771AFEE43000273501 /* sLinkedMergeSortCmp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sLinkedMergeSortCmp.h; sourceTree = "<group>"; };
+		653846781AFEE46500273501 /* compareStringCaseInSensitive.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = compareStringCaseInSensitive.h; sourceTree = "<group>"; };
+		653846791AFEE48000273501 /* compareStringCaseInSenstitiveDesc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = compareStringCaseInSenstitiveDesc.h; sourceTree = "<group>"; };
+		6538467A1AFEE4A600273501 /* compareStringCaseSenstitive.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = compareStringCaseSenstitive.h; sourceTree = "<group>"; };
+		6538467B1AFEE4B900273501 /* compareStringCaseSenstitiveDesc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = compareStringCaseSenstitiveDesc.h; sourceTree = "<group>"; };
 		65672D601ADDFF6600D228AE /* CPPTools4Godpaper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPPTools4Godpaper; sourceTree = BUILT_PRODUCTS_DIR; };
 		65672D631ADDFF6600D228AE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		6587E5281AFD6A7A0051F5BA /* Iterator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Iterator.h; sourceTree = "<group>"; };
@@ -157,6 +172,17 @@
 			isa = PBXGroup;
 			children = (
 				6587E54A1AFD73040051F5BA /* compare */,
+				6538466C1AFEE2E900273501 /* SortOptions.h */,
+				6538466D1AFEE31200273501 /* arrayedInsertionSort.h */,
+				6538466F1AFEE33500273501 /* arrayedShellSort.h */,
+				653846701AFEE35900273501 /* dLinkedInsertionSort.h */,
+				653846711AFEE37400273501 /* dLinkedInsertionSortCmp.h */,
+				653846721AFEE38800273501 /* dLinkedMergeSort.h */,
+				653846731AFEE39D00273501 /* dLinkedMergeSortCmp.h */,
+				653846741AFEE3F200273501 /* sLinkedInsertionSort.h */,
+				653846751AFEE40900273501 /* sLinkedInsertionSortCmp.h */,
+				653846761AFEE41E00273501 /* sLinkedMergeSort.h */,
+				653846771AFEE43000273501 /* sLinkedMergeSortCmp.h */,
 			);
 			path = sort;
 			sourceTree = "<group>";
@@ -164,6 +190,10 @@
 		6587E54A1AFD73040051F5BA /* compare */ = {
 			isa = PBXGroup;
 			children = (
+				653846781AFEE46500273501 /* compareStringCaseInSensitive.h */,
+				653846791AFEE48000273501 /* compareStringCaseInSenstitiveDesc.h */,
+				6538467A1AFEE4A600273501 /* compareStringCaseSenstitive.h */,
+				6538467B1AFEE4B900273501 /* compareStringCaseSenstitiveDesc.h */,
 			);
 			path = compare;
 			sourceTree = "<group>";
